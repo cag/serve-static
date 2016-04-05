@@ -1,3 +1,5 @@
+# !! THIS IS JUST A TEMPORARY FORK (hopefully) !!
+
 # serve-static
 
 [![NPM Version][npm-image]][npm-url]
